@@ -2,3 +2,4 @@
   tasks:
     - include: tasks/core-setup.yml
     - include: tasks/nvim-setup.yml
+    - include: tasks/tmux-setup.yml
